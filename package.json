@@ -1,0 +1,8 @@
+{
+  "name": "to production test",
+  "description": "testing node.js to production procedures",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.9.4"
+  }
+}
