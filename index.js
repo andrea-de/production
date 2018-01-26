@@ -8,6 +8,6 @@ app.get('/', function (req, res) {
   });
 })
 
-app.listen(process.env.port || 4000, function () {
+app.listen(process.env.PORT || 4000, function () {
   console.log("listening for requests");
 });
