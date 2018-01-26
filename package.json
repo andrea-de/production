@@ -1,8 +1,25 @@
 {
-  "name": "to production test",
-  "description": "testing node.js to production procedures",
+  "name": "production",
   "version": "1.0.0",
+  "description": "learn to deploy node.js app",
+  "main": "index.js",
   "engines": {
     "node": "8.9.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrea-de/production.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrea-de/production/issues"
+  },
+  "homepage": "https://github.com/andrea-de/production#readme",
+  "dependencies": {
+    "express": "^4.16.2"
   }
 }
